@@ -1,0 +1,13 @@
+﻿  
+    **************************************************
+    *         Universal C++ RunTime (UCXXRT)         *
+    **************************************************
+    
+    UCXXRT Path      : D:\ProgarmRelease\Cpp_Sln\FastCallBacks\packages\ucxxrt.3.0.7\lib\native\
+    Platform         : ARM
+    Configuration    : Debug
+    Tools Version    : 14.29.30133
+    Platform Version : 10.0.22621.0
+    Kernel Mode      : true
+    
+D:\Windows Kits\10\build\WindowsDriver.common.targets(235,5): error :  'ARM' is not a valid architecture for Kernel mode drivers or UMDF drivers

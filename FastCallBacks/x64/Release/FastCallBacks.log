@@ -1,0 +1,75 @@
+﻿  
+    **************************************************
+    *         Universal C++ RunTime (UCXXRT)         *
+    **************************************************
+    
+    UCXXRT Path      : D:\ProgarmRelease\Cpp_Sln\FastCallBacks\packages\ucxxrt.3.0.7\lib\native\
+    Platform         : x64
+    Configuration    : Release
+    Tools Version    : 14.29.30133
+    Platform Version : 10.0.22621.0
+    Kernel Mode      : true
+    
+  Building 'FastCallBacks' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\FastCallBacks.inf
+  Stamping [Version] section with DriverVer=08/10/2024,22.50.45.675
+  Callbacks.cpp
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(217,27): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(427,65): warning C4100: “RegistrationContext”: 未引用的形参
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(509,8): warning C4189: “tid”: 局部变量已初始化但不引用
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(546,41): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(587,25): warning C4311: “类型强制转换”: 从“PVOID”到“LONG”的指针截断
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(587,25): warning C4302: “类型强制转换”: 从“PVOID”到“LONG”截断
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(575,25): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+  Driver.cpp
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Driver.cpp(50,34): warning C4100: “drive_object”: 未引用的形参
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Driver.cpp(56,77): warning C4100: “path”: 未引用的形参
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Driver.cpp(59,14): warning C4101: “status”: 未引用的局部变量
+  正在生成代码...
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(426): warning C4715: “GetFilePathByFileObject”: 不是所有的控件路径都返回值
+D:\ProgarmRelease\Cpp_Sln\FastCallBacks\FastCallBacks\Callbacks.cpp(135): warning C4715: “Callbacks::EnabledObCallBack”: 不是所有的控件路径都返回值
+  FastCallBacks.vcxproj -> D:\ProgarmRelease\Cpp_Sln\FastCallBacks\x64\Release\FastCallBacks.sys
+  
+    **************************************************
+    *         Universal C++ RunTime (UCXXRT)         *
+    **************************************************
+    
+    UCXXRT Path      : D:\ProgarmRelease\Cpp_Sln\FastCallBacks\packages\ucxxrt.3.0.7\lib\native\
+    Platform         : x64
+    Configuration    : Release
+    Tools Version    : 14.29.30133
+    Platform Version : 10.0.22621.0
+    Kernel Mode      : true
+    
+  Done Adding Additional Store
+  Successfully signed: D:\ProgarmRelease\Cpp_Sln\FastCallBacks\x64\Release\FastCallBacks.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\ProgarmRelease\Cpp_Sln\FastCallBacks\x64\Release\FastCallBacks\fastcallbacks.cat
+  
+    **************************************************
+    *         Universal C++ RunTime (UCXXRT)         *
+    **************************************************
+    
+    UCXXRT Path      : D:\ProgarmRelease\Cpp_Sln\FastCallBacks\packages\ucxxrt.3.0.7\lib\native\
+    Platform         : x64
+    Configuration    : Release
+    Tools Version    : 14.29.30133
+    Platform Version : 10.0.22621.0
+    Kernel Mode      : true
+    
+  Done Adding Additional Store
+  Successfully signed: D:\ProgarmRelease\Cpp_Sln\FastCallBacks\x64\Release\FastCallBacks\fastcallbacks.cat
+  
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
